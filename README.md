@@ -1,1 +1,3 @@
 # bashrc
+
+/etc/bash.bashrc
